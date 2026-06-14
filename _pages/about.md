@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Multiphase & Multi-physics Fluid Dynamics
+subtitle: Multi-phase & Multi-physics Fluid Dynamics
 
 profile:
   align: right
