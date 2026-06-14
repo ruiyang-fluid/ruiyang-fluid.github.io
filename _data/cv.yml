@@ -1,10 +1,10 @@
 cv:
   name: Rui Yang
-  label: Researcher and engineer
-  email:
+  label: Assistant Professor
+  email: ruiyang.fluid@gmail.com
   location:
   image: ""
-  summary: Personal CV for Rui Yang. Add your current position, education, experience, publications, and awards here.
+  summary: 
 
   social_networks:
     - network: GitHub
@@ -13,40 +13,66 @@ cv:
   address:
 
   sections:
-    Education:
-      - institution: Add your institution
-        location:
-        area: Add your field
-        studyType: Add your degree
-        start_date:
-        end_date:
-        score: ""
-        highlights:
-          - Add a short highlight.
 
     Experience:
-      - company: Add your organization
-        position: Add your role
-        location:
-        start_date:
-        end_date:
-        summary: Add a concise description of your work.
+      - company: Tsinghua University
+        position: Assistant Professor
+        location: Beijing, China
+        start_date: 2026-07-15
+        end_date: 
+        summary: School of Aerospace Engineering & Center for Combustion Energy
+        highlights:
+          - Multi-phase Multi-physics flows.
+      - company: Princeton University
+        position: Postdoctoral Researcher
+        location: NJ, USA
+        start_date: 2024-10-01
+        end_date: 2026-05-31
+        summary: Department of Mechanical and Aerospace Engineering
+        highlights:
+          - Ocean wind-wave modeling.
+      - company: University of Twente
+        position: Postdoctoral Researcher
+        location: Enschede, the Netherlands
+        start_date: 2023-12-01
+        end_date: 2024-09-30
+        summary: Physics of Fluids Group
         highlights:
           - Add a short highlight.
 
-    Skills:
-      - name: Research
-        level:
-        icon: fa-solid fa-hashtag
-        keywords: "Add your methods, tools, and domains"
+    Education:
+      - institution: University of Twente
+        location: Enschede, the Netherlands
+        area: Physics of Fluids
+        studyType: PhD
+        start_date: 2020-06-01
+        end_date: 2023-11-30
+        score: ""
+        highlights:
+          - Turbulent flows with phase-change.
+
+      - institution: University of Twente
+        location: Enschede, the Netherlands
+        area: Physics of Fluids
+        studyType: MS
+        start_date: 2018-09-01
+        end_date: 2020-05-31
+        score: ""
+        highlights:
+          - Turbulent convection and data-driven modeling.
+
+      - institution: University of Science and Technology of China
+        location: Hefei, China
+        area: Theoretical and Applied Mechanics
+        studyType: BS
+        start_date: 2014-09-01
+        end_date: 2019-06-30
+        score: ""
 
     Interests:
-      - name: Fluid mechanics
+      - name: Multiphase flows with phase-change
         icon: fa-solid fa-tag
-        keywords: "Add specific research interests"
-
-    Projects:
-      - name: Personal website
-        summary: Configured an al-folio website for sharing projects, notes, and publications.
-        highlights:
-          - Replace this entry with your research or engineering projects.
+        keywords: "Marangoni-driven melt pool dynamics\\Turbulent jet with evaporation"
+      - name: Numerical methods
+        icon: fa-solid fa-tag
+        keywords: "Phase-field models\\Immersed boundary methods\\GPU acceleration\\ML-driven"
