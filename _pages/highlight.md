@@ -9,23 +9,40 @@ nav_order: 4
 
 ## Research Highlights
 
-<!--
-Example:
+**2024** - Invited talk at 9th ECCOMAS Congress, Lisboa, Portugal
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/your-cover-image.jpg" title="Paper cover" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+**2024** - Ehrenfest-Afanassjewa thesis award (Honourable mention) by Dutch Physics Council
 
-**Paper title or journal cover title**  
-Short description of the cover image and the associated publication.
--->
+**2023** - Cover article of Journal of Fluid Mechanics  (vol.956)
 
-To be updated.
+**2023** - ECCOMAS Best Thesis nominees (the only winner from the Netherlands)
 
+**2023** - Research highlight by JMBC Burgerscentrum
 
+**2023** - PhD graduate with highest distinctions (Cum laude)
 
-- To be updated.
+**2023** - Invited talk at JMBC Multiphase flow and phase transitions, Enschede, the Netherlands
 
-- To be updated
+**2022** - Focus article on APS Physics: "Temperature Oscillation Increases Heat Flow"
+
+**2022** - Cover article of Journal of Fluid Mechanics  (vol.938)
+
+**2022** - Cover article of Journal of Fluid Mechanics  (vol.932)
+
+**2022**  - WHOI Geophysical Fluid Dynamics (GFD) Fellowship
+
+**2022** - Focus article on APS Physics: "Exhaled Droplets Grow in Size on Cool Days"
+
+**2021** - Cover article of Physical Review Letters  (vol.125)
+
+**2020**  - Master graduate with highest distinctions (Cum laude)
+
+**2019** - Erasmus Mobility grant for Max-Planck institute for Dynamics and Self-Organization
+
+**2018** - University of Twente Scholarship
+
+**2018** - Tsien Hsue-Shen Mechanical Talent Program
+
+**2017** - National Endeavor Fellowship (Top 5%)
+
+**2015** - Outstanding Student Gold Scholarship (Top 10%)
